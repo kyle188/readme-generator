@@ -1,35 +1,42 @@
-
 # README Generator
+
 
 ## Description
 
-This is a control line application that allows the user to  fill out a README.md file just by answering questions.
-
+This README Generator easily creates README.md files right on the commmand line using questions from the npm Inquirer package.
 
 ## Table of Contents
 
+-[Description](#Description)
+-[Installation](#Installation)
+-[Usage](#Usage)
+-[License](#License)
+-[Contributing](#Contributing)
+-[Test](#Test)
+-[Questions](Questions)
+
 ## Installation  
 
-no installation required
+This App can be invoked on the command line using node index.js
 
 ## Usage
 
-o;iashdcwejbcfjewbc
+n/a
 
 ## License
 
-MIT
+This application is licensed under MIT 
 
 ## Contributing
 
-ikjdbjwbedjebwd
+n/a
 
 ## Tests
 
-iwqndjwbqdjbwqjdb
+n/a
 
 ## Questions
 
-For any furthur questions you can contact me:<br>
--GitHub: (https://github.com/kyle188)<br>
--Email: (kbark1985@gmail.com)
+Find me on GitHub  (https://github.com/kyle188)
+
+Or for furthur questions reach out to me via Email:   kybar089@gmail.com

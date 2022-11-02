@@ -7,7 +7,6 @@ const generateMarkdown = (data) => {
       license,
       contributionGuidelines,
       testInstructions,
-      questions,
       github,
       email
   } = data
@@ -15,12 +14,20 @@ const generateMarkdown = (data) => {
   return `
 # ${title}
 
+
 ## Description
 
 ${description}
 
-
 ## Table of Contents
+
+-[Description](#Description)
+-[Installation](#Installation)
+-[Usage](#Usage)
+-[License](#License)
+-[Contributing](#Contributing)
+-[Test](#Test)
+-[Questions](Questions)
 
 ## Installation  
 
@@ -32,7 +39,7 @@ ${usageInformation}
 
 ## License
 
-${license}
+This application is licensed under ${license} 
 
 ## Contributing
 
@@ -44,9 +51,9 @@ ${testInstructions}
 
 ## Questions
 
-${questions}<br>
--GitHub: (https://github.com/${github})<br>
--Email: (${email})
+Find me on GitHub  (https://github.com/${github})
+
+Or for furthur questions reach out to me via Email:   ${email}
 `
 }
 
