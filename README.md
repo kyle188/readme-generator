@@ -25,7 +25,7 @@ n/a
 
 ## License
 
-This application is licensed under MIT 
+n/a
 
 ## Contributing
 
