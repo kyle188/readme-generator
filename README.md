@@ -21,7 +21,7 @@ This App can be invoked on the command line using node index.js
 
 ## Usage
 
-n/a
+https://drive.google.com/file/d/1HqrTuXbgtWZQzw40TKHIvu20TY5vlOie/view
 
 ## License
 
